@@ -124,7 +124,7 @@ If you want to deactivate this option set _--tensorboard_ argument to False. Mor
 @article{tzannetos2024proximal-curriculum-target,
   author  = {Georgios Tzannetos and Parameswaran Kamalaruban and Adish Singla},
   title   = {{P}roximal {C}urriculum with {T}ask {C}orrelation for {D}eep {R}einforcement {L}earning},
-  journal = {International Joint Conference of Artificial Intelligence (IJCAI)},
+  journal = {International Joint Conference on Artificial Intelligence (IJCAI)},
   year    = {2024},
 }
 ```
